@@ -1,0 +1,11 @@
+/target/
+bin/
+trunk/
+.settings/
+.classpath
+.project
+*.o
+*.obj
+*.lib
+*.so
+*.dll
